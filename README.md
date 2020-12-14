@@ -1,2 +1,2 @@
 # Sistema-Difuso
-Sistema Difuso para la detección de COVID-19
+Este código pertenece a un Sistema Difuso de tipo Mamdani hecho en el software MATLAB, el cual tiene como objetivo diagnosticar la probabilidad de que el usuario padezca del virus del COVID-19. Dicho Sistema Difuso está compuesto por tres entradas, las cuales son: temperatura, pulso y posición. Cada uno con sus respectivos rangos de operación.Con una única salida que es el diagnóstico. Este Sistema Difuso está compuesto por 78 reglas difusas para las cuales se establecieron valores cualitativos.
